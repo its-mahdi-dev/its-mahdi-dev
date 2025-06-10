@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🌐 I'm full stack developer for 6 years.<br>- 🏢 I'm working in Middleeastbank currently.<br>- 📘 I'm learning Machine learning and Data science.<br>- 🎓 I study Computer science at Sharif University of Technology</p>
+<p align="left">- 🌐 I'm full stack developer for 6 years.<br>- 🏢 I'm working at Middleeastbank currently.<br>- 📘 I'm learning Machine learning and Data science.<br>- 🎓 I study Computer science at Sharif University of Technology</p>
 
 ###
 
